@@ -1,0 +1,263 @@
+.soft-white {
+    color: rgba(255,255,255,.5);
+ }
+ 
+ a {
+     cursor: pointer;
+ }
+ .jumbotron {
+     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/livros-bg.jpg);
+     height: 60vh; 
+     background-size: cover;
+     background-position: center;
+ }
+ .social-box i:hover, .social-box i:focus {
+     color: rgba(255, 255, 255, 0.75);
+ } 
+ 
+ .text-footer {
+     line-height: 1.7rem;
+ }
+ 
+ footer {
+     position: relative;
+     bottom: 0;
+     margin-top: 1.8pc;
+ }
+ 
+ .arrow {
+     color: white;
+ }
+ 
+ .left {
+    text-align: left !important;
+ }
+ .container {
+     padding-top: 2pc;
+ }
+ 
+ img.livro-capa {
+     width: 79%;
+     max-width: 400px;
+ }
+ form {
+     margin-top: 2pc;
+ } 
+ .paddingTop {
+     padding-top: 3pc;
+ }
+ @media (max-width: 450px) {
+     .col {
+         flex-basis: 100% !important;
+     }
+     img.livro-capa {
+         width: 100%;
+     }
+ }
+ 
+ 
+ 
+ .bd-placeholder-img {
+     font-size: 1.125rem;
+     text-anchor: middle;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+   }
+ 
+   @media (min-width: 768px) {
+     .bd-placeholder-img-lg {
+       font-size: 3.5rem;
+     }
+   }
+   
+ .jumbotron {
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+     margin-bottom: 0;
+     background-color: #fff;
+   }
+   @media (min-width: 768px) {
+     .jumbotron {
+       padding-top: 6rem;
+       padding-bottom: 6rem;
+     }
+   }
+   
+   .jumbotron p:last-child {
+     margin-bottom: 0;
+   }
+   
+   .jumbotron-heading {
+     font-weight: 300;
+   }
+   
+   .jumbotron .container {
+     max-width: 40rem;
+   }
+   
+   footer {
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+   }
+   
+   footer p {
+     margin-bottom: .25rem;
+   }
+ 
+   .tamanho-menor {
+     width: 100px !important;
+ }
+ 
+ .img-thumbnail2 {
+     width: 400px !important;
+ }
+ 
+ 
+ 
+ 
+ .bd-placeholder-img {
+     font-size: 1.125rem;
+     text-anchor: middle;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+   }
+ 
+   @media (min-width: 768px) {
+     .bd-placeholder-img-lg {
+       font-size: 3.5rem;
+     }
+   }
+ 
+ 
+   .jumbotron {
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+     margin-bottom: 0;
+     background-color: #fff;
+   }
+   @media (min-width: 768px) {
+     .jumbotron {
+       padding-top: 6rem;
+       padding-bottom: 6rem;
+     }
+   }
+   
+   .jumbotron p:last-child {
+     margin-bottom: 0;
+   }
+   
+   .jumbotron-heading {
+     font-weight: 300;
+   }
+   
+   .jumbotron .container {
+     max-width: 40rem;
+   }
+   
+   footer {
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+   }
+   
+   footer p {
+     margin-bottom: .25rem;
+   }
+ 
+ 
+   .img-thumbnail2 {
+     width: 100px !important;
+   }
+ 
+ 
+ 
+   .jumbotron {
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+     margin-bottom: 0;
+     background-color: #fff;
+   }
+   @media (min-width: 768px) {
+     .jumbotron {
+       padding-top: 6rem;
+       padding-bottom: 6rem;
+     }
+   }
+   
+ 
+   .bd-placeholder-img {
+     font-size: 1.125rem;
+     text-anchor: middle;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+   }
+ 
+   @media (min-width: 768px) {
+     .bd-placeholder-img-lg {
+       font-size: 3.5rem;
+     }
+   }
+   
+   .jumbotron p:last-child {
+     margin-bottom: 0;
+   }
+   
+   .jumbotron-heading {
+     font-weight: 300;
+   }
+   
+   .jumbotron .container {
+     max-width: 40rem;
+   }
+   
+   footer {
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+   }
+   
+   footer p {
+     margin-bottom: .25rem;
+   }
+   
+.soft-white {
+    color: rgba(255,255,255,.5);
+ }
+ 
+ a {
+     cursor: pointer;
+ }
+ .hero-header {
+     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/livros-bg.jpg);
+     background-size: cover;
+     background-position: center;
+ }
+ .social-box i:hover, .social-box i:focus {
+     color: rgba(255, 255, 255, 0.75);
+ } 
+ 
+ 
+ .text-footer {
+     line-height: 1.7rem;
+ }
+ 
+ footer {
+     position: relative;
+     bottom: 0;
+ }
+ 
+ .arrow {
+     color: white;
+ }
+ 
+ 
+ @media (min-width: 720px) {
+     .busca-avancada {
+         margin-left: 8.4em;
+     }
+ }
+
